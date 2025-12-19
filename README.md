@@ -7,6 +7,26 @@
 
 -> The main objective of this analysis is to understand customer purchasing behavior, sales performance, and revenue patterns across different branches, product categories, and customer segments. By analyzing the data visually and statistically, the project helps transform raw transactional data into actionable insights for business decision-making.
 
+# Project Scope and Methodology
+
+-> The analysis begins with data loading and inspection, where the dataset structure, data types, and potential data quality issues such as missing or inconsistent values are examined. Necessary preprocessing steps are performed to ensure the data is suitable for analysis.
+
+-> Descriptive statistical techniques are then applied to understand key business metrics, including total sales, gross income, quantity sold, and customer ratings. These statistics provide a high-level overview of the supermarket’s operational performance.
+
+-> The project further explores sales and revenue patterns across different dimensions such as:
+
+-> Branch locations
+
+-> Product categories
+
+-> Customer types (Member vs Normal)
+
+-> This enables identification of high-performing segments and areas contributing significantly to overall revenue.
+
+-> A detailed customer behavior analysis is performed by comparing purchasing patterns based on gender and customer type. This helps in understanding differences in spending behavior and product preferences among customer segments.
+
+-> Additionally, time-based analysis is conducted to study sales trends over days and months. This analysis highlights peak sales periods and potential seasonal patterns that can assist in inventory planning and marketing strategies.
+
 # 🔍 What This Notebook Covers
 
 # 1. Data Understanding & Cleaning
